@@ -9,5 +9,19 @@ func main() {
 
 	//concepts.Arrays()
 
-	concepts.Slices()
+	//concepts.Slices()
+
+	//concepts.Maps()
+
+	//concepts.Vals()
+
+	//concepts.Variadic()
+
+	//concepts.Closures()
+
+	//concepts.Recursion()
+
+	//concepts.Pointers()
+
+	concepts.Structs()
 }
