@@ -26,7 +26,7 @@ const (
 //
 // This can get cumbersome if there are many possible values. 
 // In such cases the stringer tool can be used in conjunction with 
-// go:generate to automate the process. See this post for a longer 
+// go: generate to automate the process. See this post for a longer 
 // explanation. => https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
 var stateName = map[ServerState]string{
 	StateIdle:      "idle",
